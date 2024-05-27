@@ -1,1 +1,1 @@
-This is a Simple Personal Website using HTML and CSS  .
+This is a Simple Websites using HTML , CSS  and JavaScript .
